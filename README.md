@@ -12,7 +12,7 @@ Frontend
 
 ## Deplolyed App
 
-Frontend: https://kathan-news.netlify.app/ <br>
+Frontend: https://kathan-news.vercel.app/ <br>
 Backend: https://code-kathan-api.vercel.app
 
 ## Directory Structure
